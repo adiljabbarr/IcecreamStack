@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FlowingCoffee
+  - SellField
+  - Cone
+  - CollectedCone
+  - HeadMoney
+  - WallMoney
+  - MoneyHand
+  - SellPortal
+  - HandFree
+  - Obstacle
+  - Cherry
+  - CherryMachine
+  - Chocolate
+  - Pink
+  - White
+  - Cream1
+  - CreamMachine
+  - Collectable
+  - Chocolate Machine
+  - ChocolateMachine
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - HandCone
+  - FinishCone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
